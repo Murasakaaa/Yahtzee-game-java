@@ -1,6 +1,6 @@
 # Read Me - Yahtzee en Java
 
-Langue/Language :
+Langue🇫🇷/Language🇬🇧 :
 - [Français](#-binôme--vibol--nolann)
 - [English](#-team-vibol--nolann)
 
